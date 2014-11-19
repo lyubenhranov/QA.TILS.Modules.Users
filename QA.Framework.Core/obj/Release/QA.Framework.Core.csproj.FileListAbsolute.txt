@@ -1,0 +1,5 @@
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\bin\Release\QA.Framework.Core.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\bin\Release\QA.Framework.Core.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\obj\Release\QA.Framework.Core.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\obj\Release\QA.Framework.Core.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\obj\Release\QA.Framework.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\QA.TILS.Modules.Users.Tests.Stress.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\QA.TILS.Modules.Users.Tests.Stress.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\obj\Release\QA.TILS.Modules.Users.Tests.Stress.csprojResolveAssemblyReference.cache
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\obj\Release\QA.TILS.Modules.Users.Tests.Stress.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\obj\Release\QA.TILS.Modules.Users.Tests.Stress.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Admin\Comments\Admin_Stress.WriteComment-100.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Admin\Roles\Admin_Stress.PageRoles-100.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Admin\Towns\Admin_Stress.PageTowns-100.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Admin\Universities\Admin_Stress.Universities-100.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Common\Front_Stress.RealUsageSimulation-1000.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Front\Courses\Front_Stress.CoursePage-1000.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Front\Login\Front_Stress.Login-1000.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Front\Messages\Front_Stress.SendMessage-1000.loadtest
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Tests.Stress\bin\Release\Front\Registration\Front_Stress.Registration-1000.loadtest

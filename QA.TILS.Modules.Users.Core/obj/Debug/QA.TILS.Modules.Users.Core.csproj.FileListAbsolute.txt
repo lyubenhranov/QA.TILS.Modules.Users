@@ -1,0 +1,11 @@
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\QA.TILS.Modules.Users.Core.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\QA.TILS.Modules.Users.Core.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\QA.Framework.Core.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\QA.Framework.Core.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\obj\Debug\QA.TILS.Modules.Users.Core.csprojResolveAssemblyReference.cache
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\obj\Debug\QA.TILS.Modules.Users.Core.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\obj\Debug\QA.TILS.Modules.Users.Core.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\Telerik.TestStudio.Shared.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\Autofac.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.TILS.Modules.Users.Core\bin\Debug\Newtonsoft.Json.dll

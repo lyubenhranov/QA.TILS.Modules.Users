@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="Flow.AddUniversity" Id="742c1e1e-4a76-4edf-a302-04cfc549afd7" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest1.996803e3-7e41-4ef7-b7bd-ec5421101723.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <IncludedWebTest Name="PageLoad.Universities" Path="pageload.universities.webtest" Id="f29b0585-bbbd-4f9d-b6b2-c81e1b1be088" IsCodedWebTest="False" InheritWebTestSettings="False" />
+    <Request Method="POST" Guid="1e64fa35-3236-47a6-bd05-27bee58f1686" Version="1.1" Url="{{BaseUrl}}/Administration_Users/Universities/Create" ThinkTime="9" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="X-Requested-With" Value="XMLHttpRequest" />
+        <Header Name="Referer" Value="http://test.telerikacademy.com/Administration_Users/Universities" />
+      </Headers>
+      <FormPostHttpBody>
+        <FormPostParameter Name="sort" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="group" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="filter" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="UniversityId" Value="0" RecordedValue="0" CorrelationBinding="{{FormPostParam1.UniversityId}}" UrlEncode="True" />
+        <FormPostParameter Name="Name" Value="sresesdfs" RecordedValue="sresesdfs" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Website" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="True" />
+        <FormPostParameter Name="Order" Value="0" RecordedValue="0" CorrelationBinding="{{FormPostParam2.Order}}" UrlEncode="True" />
+      </FormPostHttpBody>
+    </Request>
+    <IncludedWebTest Name="Flow.Logout" Path="..\..\front\login\flow.logout.webtest" Id="0e406e20-4854-4fa8-b488-5596ac086ced" IsCodedWebTest="False" InheritWebTestSettings="False" />
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="PageLoad.ExtractUsers" Id="7a0a3d2d-5c30-473f-9563-908d07198aea" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="PageLoad.ExtractUsers.b6d64b59-a53d-492a-b975-10b4d9e16bb4.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <IncludedWebTest Name="Flow.LoginAdmin" Path="..\..\front\login\flow.loginadmin.webtest" Id="ce12566a-4cdd-4b85-816f-164cbafa5095" IsCodedWebTest="False" InheritWebTestSettings="False" />
+    <Request Method="GET" Guid="a3cda870-ab34-4bb0-8799-0da44f578b7c" Version="1.1" Url="{{BaseUrl}}/Administration_Users/Users/FilteredExportToExcel" ThinkTime="3" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="1" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="Complex Search Admin Page" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="be9e193e-184d-4fe1-ac06-7005a5399d69" Version="1.1" Url="{{BaseUrl}}/Content/css" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="{{BaseUrl}}/Administration_Users/Users/FilteredExportToExcel" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="v" Value="eyyfhRUK-xl3pHBBhl5FYmVdcwaWD7PndBNkB4gZd101" RecordedValue="eyyfhRUK-xl3pHBBhl5FYmVdcwaWD7PndBNkB4gZd101" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+    </Request>
+  </Items>
+  <ContextParameters>
+    <ContextParameter Name="BaseUrl" Value="http://test.telerikacademy.com" />
+  </ContextParameters>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>

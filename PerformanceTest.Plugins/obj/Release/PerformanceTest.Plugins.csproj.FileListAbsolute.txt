@@ -1,0 +1,4 @@
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\PerformanceTest.Plugins\bin\Release\PerformanceTest.Plugins.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\PerformanceTest.Plugins\bin\Release\PerformanceTest.Plugins.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\PerformanceTest.Plugins\obj\Release\PerformanceTest.Plugins.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\PerformanceTest.Plugins\obj\Release\PerformanceTest.Plugins.pdb

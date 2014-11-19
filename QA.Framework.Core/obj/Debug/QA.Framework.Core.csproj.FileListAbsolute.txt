@@ -1,0 +1,4 @@
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\bin\Debug\QA.Framework.Core.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\bin\Debug\QA.Framework.Core.pdb
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\obj\Debug\QA.Framework.Core.dll
+D:\Telerik\QA\Teamwork\Framework Automation\QA.TILS.Modules.Users\QA.Framework.Core\obj\Debug\QA.Framework.Core.pdb
